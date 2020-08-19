@@ -33,8 +33,3 @@ Thumbs.db
 ehthumbs.db
 [Dd]esktop.ini
 $RECYCLE.BIN/
-
-# Ignore everything in this directory
-*
-# Except this file
-!.gitignore
