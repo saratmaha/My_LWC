@@ -1,6 +1,16 @@
-# Salesforce App
+# Environment Set up Guide
 
-This guide helps Salesforce developers who are new to Visual Studio Code go from zero to a deployed app using Salesforce Extensions for VS Code and Salesforce CLI.
+My LWC learning guide
+
+## Create any Developer Sandbox
+
+Winter 21 update.
+
+`Enable Source Tracking in Developer and Developer Pro Sandboxes` feature is beta and 
+will track source 
+
+Create a project using manifest file.
+`sfdx force:project:create -n MyProject --manifest`
 
 ## Part 1: Choosing a Development Model
 
